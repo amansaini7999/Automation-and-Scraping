@@ -1,1 +1,1 @@
-&copy; myAImate
+This repository is made to automate basic things.
